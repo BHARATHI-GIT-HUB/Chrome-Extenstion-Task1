@@ -1,6 +1,6 @@
 {
-  "name": "Current Web Scraper",
-  "description": "Scrape data on current url ",
+  "name": "Current Web Title Extenstion",
+  "description": "",
   "version": "1.0",
   "manifest_version": 3,
   "action": {
